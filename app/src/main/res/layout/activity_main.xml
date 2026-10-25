@@ -15,7 +15,6 @@
             android:orientation="vertical"
             android:padding="16dp">
 
-            <!-- 상단 걸음수 카드 -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -99,7 +98,6 @@
                 </RelativeLayout>
             </LinearLayout>
 
-            <!-- 3가지 통계 박스 -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -151,7 +149,6 @@
                 </LinearLayout>
             </LinearLayout>
 
-            <!-- 현재 걷는 갈맷길 카드 -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -203,7 +200,6 @@
                 </RelativeLayout>
             </LinearLayout>
 
-            <!-- 메모 카드 -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
